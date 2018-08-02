@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="843ba17e-d031-4b56-8ebf-456c275f7796" name="Default Changelist" comment="Python慕课399第六章完成，在线性回归中使用批量梯度下降、随机梯度下降，梯度的向量化计算，梯度数据的标准化，梯度计算的Debug方法">
-      <change beforePath="" afterPath="$PROJECT_DIR$/PCA.py" />
+    <list default="true" id="843ba17e-d031-4b56-8ebf-456c275f7796" name="Default Changelist" comment="Python慕课399第七章完成，PCA降维降噪，人脸">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="C:\Users\ejang\AppData\Roaming\SPB_Data\Python-慕课网399\第7章 PCA与梯度上升法\playML\.idea\shelf/" />
@@ -248,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533104968932</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Python慕课399第七章完成，PCA降维降噪，人脸">
+      <created>1533210455559</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1533210455559</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -333,7 +339,8 @@
     <MESSAGE value="第5章线性回归内容" />
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="Python慕课399第六章完成，在线性回归中使用批量梯度下降、随机梯度下降，梯度的向量化计算，梯度数据的标准化，梯度计算的Debug方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python慕课399第六章完成，在线性回归中使用批量梯度下降、随机梯度下降，梯度的向量化计算，梯度数据的标准化，梯度计算的Debug方法" />
+    <MESSAGE value="Python慕课399第七章完成，PCA降维降噪，人脸" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python慕课399第七章完成，PCA降维降噪，人脸" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
